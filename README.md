@@ -1,5 +1,5 @@
 How to Run the Project:
-1. Download all the java files
+1. Download all the files
 2. Open any IDE application
 3. Open all the files in the IDE
 4. Select "MainFrame.java" and run this file
