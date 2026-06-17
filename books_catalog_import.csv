@@ -1,0 +1,6 @@
+Item ID,Title,Author,ISBN,Publisher,Published Year,Price,Available Stock,Genre
+B-201,The Java Programming Language,James Gosling,9780321349804,Addison-Wesley,2006,125.50,12,Computing
+B-202,Clean Code,Robert C. Martin,9780132350884,Prentice Hall,2008,180.00,5,Software Engineering
+B-203,Introduction to Algorithms,Thomas H. Cormen,9780262033848,MIT Press,2009,245.00,3,Computer Science
+B-204,Design Patterns,Erich Gamma,9780201633610,Addison-Wesley,1994,210.00,0,Software Architecture
+B-205,Systems Analysis and Design,Alan Dennis,9781118037424,Wiley,2012,155.00,8,Information Systems
